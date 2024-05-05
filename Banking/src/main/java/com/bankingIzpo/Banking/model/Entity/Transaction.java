@@ -1,5 +1,6 @@
-package com.bankingIzpo.Banking.model.Entity;
+package com.bankingIzpo.Banking.model.entity;
 
+import com.bankingIzpo.Banking.model.Entity.Account;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
